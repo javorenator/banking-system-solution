@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Reporting Service" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Application" />
+    <module name="reporting-service" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
